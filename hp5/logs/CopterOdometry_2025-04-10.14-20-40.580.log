@@ -1,0 +1,12 @@
+INFO:	10 April 2025 | 14:20:45 (CST) >>> Got heartbeat on udp:127.0.0.1:14550
+INFO:	10 April 2025 | 14:20:46 (CST) >>> got heartbeat on udp:127.0.0.1:14551
+INFO:	10 April 2025 | 14:20:46 (CST) >>> start polling pos data
+INFO:	10 April 2025 | 14:20:46 (CST) >>> start polling frames
+INFO:	10 April 2025 | 14:20:49 (CST) >>> main_loop
+INFO:	10 April 2025 | 14:21:10 (CST) >>> 
+Stopping all processes...
+WARNING:	10 April 2025 | 14:21:10 (CST) >>> keybopard interrupt in posdata poll process
+WARNING:	10 April 2025 | 14:21:10 (CST) >>> keybopard interrupt in camera process
+WARNING:	10 April 2025 | 14:21:10 (CST) >>> Stop showing window.
+INFO:	10 April 2025 | 14:21:10 (CST) >>> pixhawk, imu, altimeter polling stopped
+INFO:	10 April 2025 | 14:21:10 (CST) >>> frames polling stopped   True
