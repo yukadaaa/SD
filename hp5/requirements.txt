@@ -1,0 +1,6 @@
+fastapi==0.103.1
+uvicorn[standard]==0.22.0
+pymavlink==2.4.34
+requests==2.31.0
+pydantic==2.3.0
+python-multipart==0.0.6
